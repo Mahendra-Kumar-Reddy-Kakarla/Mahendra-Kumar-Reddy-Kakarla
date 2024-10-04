@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm MAHENDRA KUMAR REDDY KAKARLA</h1>
 <h3 align="center">A passionate Computer Vison /Machine Learning/ Artificial Intelligence Engineer</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=bbb2912&label=Profile%20views&color=0e75b6&style=flat" alt="bbb2912" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=Mahendra-Kumar-Reddy-Kakarla&label=Profile%20views&color=0e75b6&style=flat" alt="Mahendra-Kumar-Reddy-Kakarla" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=bbb2912" alt="bbb2912" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Mahendra-Kumar-Reddy-Kakarla" alt="Mahendra-Kumar-Reddy-Kakarla" /></a> </p>
 
 - 🌱 I’m currently learning **Generative AI, Unity Game Development**
 
